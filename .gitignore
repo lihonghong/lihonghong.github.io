@@ -12,3 +12,8 @@ example/_site
 Gemfile.lock
 node_modules
 npm-debug.log*
+
+# Hidden files
+*~
+.#*
+.DS_Store
