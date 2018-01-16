@@ -153,6 +153,14 @@
         </li>
       {% endif %}
 
+      {% if author.kaggle %}
+        <li>
+          <a href="https://www.kaggle.com/{{ author.kaggle }}" itemprop="url">
+            <i class="fa fa-fw fa-link" aria-hidden="true"></i> Kaggle
+          </a>
+        </li>
+      {% endif %}
+
       {% if author.stackoverflow %}
         <li>
           <a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}" itemprop="sameAs">

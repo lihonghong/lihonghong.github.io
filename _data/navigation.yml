@@ -1,6 +1,8 @@
 # main links
 main:
-  - title: "归档"
+  - title: "博客"
     url: /
+  - title: "链接"
+    url: /links.html
   - title: "关于"
-    url: /
+    url: /about.html

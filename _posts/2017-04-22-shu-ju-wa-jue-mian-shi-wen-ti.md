@@ -1,8 +1,10 @@
 ---
 title: "2017数据挖掘面试问题"
-excerpt: "面试经验"
-date: 2017-04-22 14:05:40 +0800
+excerpt: 知乎、网易、一点资讯、阿里土豆及摩拜单车的数据挖掘岗面试问题
+date: 2017-04-22
 comments: true
+categories: 面试
+tags: [数据挖掘, 面试]
 keywords: 数据挖掘, 面试
 
 ---

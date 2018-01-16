@@ -1,8 +1,8 @@
 ---
 title: "octopress && github 建个人博客"
-excerpt: "octopress"
-date: 2016-01-28 20:19:35 +0800
+date: 2016-01-28
 comments: true
+categories: 工具
 keywords: octopress
 
 ---

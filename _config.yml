@@ -13,7 +13,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "zh"
 title                    : "aifisher's blog"
 title_separator          : "-"
-name                     : "Your Nam"
+name                     : "aifisher"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -86,9 +86,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "aifisher"
+  name             : ""
   avatar           : "/images/fisher.png"
-  bio              : "搜索、推荐、机器学习及人工智能."
+  bio              : "专注搜索、推荐、机器学习及人工智能."
   location         : "Beijing"
   email            :
   uri              :
@@ -113,10 +113,10 @@ author:
   tumblr           :
   twitter          :
   vine             :
-  weibo            :
+  weibo            : honghong999
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-
+  kaggle           : lihonghong
 
 # Reading Files
 include:
