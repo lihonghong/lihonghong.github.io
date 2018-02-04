@@ -90,7 +90,7 @@ author:
   avatar           : "/images/fisher.png"
   bio              : "专注搜索、推荐、机器学习及人工智能."
   location         : "Beijing"
-  email            :
+  email            : lihonghong.mi@gmail.com
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -99,7 +99,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : aifisher
+  github           : lihonghong
   gitlab           :
   google_plus      :
   keybase          :
@@ -113,7 +113,7 @@ author:
   tumblr           :
   twitter          :
   vine             :
-  weibo            : honghong999
+  weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
   kaggle           : lihonghong
