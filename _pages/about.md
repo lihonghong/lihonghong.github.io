@@ -4,7 +4,7 @@ author_profile: true
 permalink: /about.html
 ---
 
-## About Me
+### About Me
 * 昵称：L  
 * 出生：80年代  
 * 职业：互联网IT developer  
@@ -12,7 +12,7 @@ permalink: /about.html
 * 爱好：篮球、健身、读书  
 * 公司：xiaomi  
 
-## External Links
+### External Links
 * [知乎](https://www.zhihu.com/people/hokolee)
 * [博客园](http://www.cnblogs.com/hokolee/)
 * [csdn](http://blog.csdn.net/u011818888)
