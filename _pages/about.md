@@ -1,7 +1,8 @@
 ---
-layout: archive
+layout: single
 author_profile: true
 permalink: /about.html
+title:
 ---
 
 ## About Me
