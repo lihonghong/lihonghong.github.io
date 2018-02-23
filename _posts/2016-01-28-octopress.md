@@ -1,5 +1,5 @@
 ---
-title: "octopress && github 建个人博客"
+title: "octopress && github建个人博客"
 date: 2016-01-28
 comments: true
 categories: 工具

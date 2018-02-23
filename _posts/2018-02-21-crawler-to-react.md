@@ -3,8 +3,8 @@ title: "新闻热词:从爬虫到react native应用"
 date: 2018-02-21
 comments: true
 categories:  app
-tags:
-keywords:
+tags: 热词
+keywords: react native, 爬虫
 
 ---
 
@@ -59,7 +59,7 @@ keywords:
 
 ## 服务端web(nodejs):
 1. 创建node项目，node app.js启动web服务，在浏览器中打开 http://localhost:3000 查看结果。
-2. node连接数据库配置见[代码](https://github.com/lihonghong/news-app/blob/master/news-app-web/routes/database.js) 。   
+2. node连接数据库配置见[代码](https://github.com/lihonghong/news-app/blob/master/news-app-web/routes/database.js) 。  
 **注意**:
 mysql连接有时间限制，当连接超过一定时间没有活动后，会自动关闭该连接，因此需要加上重连机制。另外时区设置为UTC，否则获得的时间有偏差。
 
