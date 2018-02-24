@@ -60,8 +60,8 @@ keywords: react native, 爬虫
 ## 服务端web(nodejs):
 1. 创建node项目，node app.js启动web服务，在浏览器中打开 http://localhost:3000 查看结果。
 2. node连接数据库配置见[代码](https://github.com/lihonghong/news-app/blob/master/news-app-web/routes/database.js) 。
-3. 部署代码到服务器，根据前面配置好域名和nginx，可以在浏览器打开http://hotquery.lbsso.com/ 获取json格式热词列表。  
-    
+3. 部署代码到服务器并启动，根据前面配置好域名和nginx，可以在浏览器打开 http://hotquery.lbsso.com/ 获取json格式热词列表。  
+
 **注意**:
 mysql连接有时间限制，当连接超过一定时间没有活动后，会自动关闭该连接，因此需要加上重连机制。另外时区设置为UTC，否则获得的时间有偏差。
 
@@ -71,5 +71,5 @@ mysql连接有时间限制，当连接超过一定时间没有活动后，会自
 3. 运行ios项目：react-native run-ios  
 4. 运行android项目：react-native run-android
 5. 获取web接口热词并展现，参见[代码](https://github.com/lihonghong/news-app/blob/master/newsAppReact/App.js)
-6. 最终热词列表及点击结果如下：  
+6. 最终热词列表及点击热词后结果如下：  
 <img src="/images/png/hotquery.list.png" width="220" />  <img src="/images/png/hotquery.search.png" width="220"/>
